@@ -1,4 +1,4 @@
-# Udacity-Deep-Learning
+# Implementation of 2 layers LSTM by bisic Tensorflow functions
 
 Fewer article explain LSTM in detail, here is a good one, [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
